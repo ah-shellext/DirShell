@@ -24,8 +24,16 @@ regsvr32 /u DirShell.dll
 # Or delete DirShell.dll
 ```
 
+### ScreenShot
+
+![ScreenShot](./ScreenShot.jpg)
+
 ### Tips
+
++ Key code: `OpenWithDirMenu.cpp`
+
 + `CLSID` was set in `DirShell.idl`
+
 ```cpp
 library DirShellLib
 {
@@ -40,6 +48,6 @@ library DirShellLib
 };
 ```
 
-### ScreenShot
++ Link: Normal error (-> restart explorer.exe and won't show popup menu to release dll resource)
 
-![ScreenShot](./ScreenShot.jpg)
+![ScreenShot2.jpg](./ScreenShot2.jpg)

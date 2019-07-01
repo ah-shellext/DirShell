@@ -3,6 +3,17 @@ x64/
 Debug/
 Release/
 
+tmp/
+
 *.opensdf
 *.sdf
 *.suo
+
+DirShell_i.c
+DirShell_i.h
+DirShell_p.c
+dlldata.c
+
+DirShell.aps
+DirShell.rgs
+OpenWithDirMenu.rgs

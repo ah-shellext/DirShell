@@ -251,17 +251,12 @@
     <ClInclude Include="DirShell_i.h" />
     <ClInclude Include="dllmain.h" />
     <ClInclude Include="OpenWithDirMenu.h" />
-    <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="DirShell.rc" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="DirShell.def" />
-    <None Include="DirShell.rgs" />
-    <None Include="OpenWithDirMenu.rgs" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
