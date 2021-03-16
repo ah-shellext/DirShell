@@ -1,4 +1,6 @@
 # DirShell (Backup)
+
++ **This extension is deprecated**, please visit https://github.com/ah-shellext/CopyShell.
 + 菜单添加重启资源管理器
 + 古老 ATL 项目，一堆 ゴミ Code 待改
 
